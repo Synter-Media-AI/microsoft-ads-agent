@@ -1,5 +1,8 @@
 # Microsoft Ads MCP Starter Kit — Manage Bing Ads with AI
 
+> **This is a recipe repo.** The Synter MCP server itself lives at [Synter-Media-AI/mcp-server](https://github.com/Synter-Media-AI/mcp-server): 19 ad platforms, campaign creation on 14, one-click install in Cursor, Claude, ChatGPT, and VS Code. Issues, releases, and ⭐ go there.
+
+
 [![MCP Compatible](https://img.shields.io/badge/MCP-compatible-blue)](https://modelcontextprotocol.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Platform: Microsoft Ads](https://img.shields.io/badge/Platform-Microsoft%20Ads-00A4EF)](https://ads.microsoft.com)
